@@ -1,5 +1,7 @@
 # Machine Learning Topic Analysis
 
+!utils.config and utils.db_toolbox functions >u>are not</u> provided!
+
 Natural language processing using Python, Sklearn and SpaCy. Supervised and unsupervised classifications.
 
 
