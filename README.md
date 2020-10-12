@@ -2,7 +2,10 @@
 
 > utils.config and utils.db_toolbox functions <b><u>are not</u></b> provided!
 
-Natural language processing using Python, Sklearn and SpaCy. Supervised and unsupervised classifications.
+Natural language processing using Python and Sklearn. Supervised and unsupervised classifications.
+
+Todo:
+  1. Add in SpaCy package examples for natural language processing.
 
 
 ### Example of Non-negative matrix factorisation of mining news headlines (Topic_nnm_analysis.py), top 15 words for:
