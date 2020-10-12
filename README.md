@@ -3,7 +3,7 @@
 Natural language processing using Python, Sklearn and SpaCy. Supervised and unsupervised classifications.
 
 
-# Example of Non-negative matrix factorisation of mining news headlines (Topic_nnm_analysis.py), top 15 words for:
+### Example of Non-negative matrix factorisation of mining news headlines (Topic_nnm_analysis.py), top 15 words for:
 
 TOPIC # 1
 ['assets', 'anglo', 'adani', 'nsw', 'web', 'global', 'china', 'glencore', 'tinto', 'says', 'rio', 'coal', 'mornings', 'news', 'wrap']
